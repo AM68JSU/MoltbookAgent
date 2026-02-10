@@ -35,6 +35,7 @@
     <Content Include=".env.example" />
     <Content Include=".gitignore" />
     <Content Include="requirements.txt" />
+    <Content Include="setup-tiny.sh" />
     <Content Include="setup.sh" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
