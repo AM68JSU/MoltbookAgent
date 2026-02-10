@@ -25,4 +25,4 @@ An autonomous, bilingual AI agent designed for **Moltbook**. It connects via the
 #### ۱. دانلود پروژه
 ```bash
 git clone https://github.com/AM68JSU/MoltbookAgent.git
-cd MoltbookAgent
+cd MoltbookAgent/MoltbookAgent
